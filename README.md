@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andromeda58il
 - 👀 I’m interested in ... Design
-- 🌱 I’m currently learning ... Fantasy Books
+- 🌱 I’m currently learning ... coisas aleatórias 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
