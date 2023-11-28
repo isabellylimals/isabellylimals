@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andromeda58il
+- 👋 Hi, I’m @isabellymrl
 - 👀 I’m interested in ... Design
 - 🌱 I’m currently learning ... coisas aleatórias 
 - 💞️ I’m looking to collaborate on ...
