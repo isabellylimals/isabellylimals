@@ -4,12 +4,7 @@
  I am in the 2nd semester of the Information Technology course at UFERSA(Universidade Federal Rural do Semi-Árido)
 I love reading books and listening to music. I also have a passion for astronomy.🌌
 
-
-### My Spotify Account 🙃 : 
-[![Contact](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31rls4a74wdh5wmh4lq2hs737lmy?si=88df60e0dda04af2)
-
-
- ### Contact
+### Contact
 
 [![Contact](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isalima.ss/)
 
