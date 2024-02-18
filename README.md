@@ -7,6 +7,8 @@ I love reading books and listening to music. I also have a passion for astronomy
 ### Contact
 
 [![Contact](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isalima.ss/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mslima5643@gmail.com)
+
 
 
 ![Isabelly GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellymrl&show_icons=true&theme=radical)
