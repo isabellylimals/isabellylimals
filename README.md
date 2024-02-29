@@ -11,7 +11,7 @@ I love reading books and listening to music. I also have a passion for astronomy
 
 
 
-![Isabelly GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellymrl&show_icons=true&theme=radical)
+![Isabelly GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellylimals&show_icons=true&theme=radical)
 
 
 ### My Tech Stack
