@@ -1,7 +1,7 @@
 ### Hey, my name is Isabelly! 👋
 
 ### About me 👩
- I am in the nd semester of the Information Technology course at UFERSA(Universidade Federal Rural do Semi-Árido)
+ I am in the 3nd semester of the Information Technology course at UFERSA(Universidade Federal Rural do Semi-Árido)
 I love reading books and listening to music. I also have a passion for astronomy.🌌
 
 ### Contact
