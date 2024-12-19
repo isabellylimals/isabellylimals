@@ -11,8 +11,8 @@ I love reading books and listening to music. I also have a passion for astronomy
 
 ## GitHub Statistics
 
-![Isabelly GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellylimals&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellylimals&layout=compact&langs_count=5&theme=dark)
+![Isabelly GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellylimals&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellylimals&layout=compact&langs_count=5&theme=tokyonight)
 
 ## My Tech Stack
 
