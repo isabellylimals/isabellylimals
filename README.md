@@ -1,4 +1,5 @@
-![Space Science Tech GIF by European Space Agency - ESA](https://github.com/user-attachments/assets/b9b01473-12c2-4ea3-acb6-f9497efef14b)### Hey, my name is Isabelly! 👋
+
+### Hey, my name is Isabelly! 👋
 
 ### About me 👩
 I'm passionate about technology and love exploring new tools and programming languages.  
@@ -28,6 +29,7 @@ I'm always eager to learn and collaborate on exciting projects that challenge me
   <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
 </div>
 
-![](IMAGES/image.gif)
+![Space Science Tech GIF](IMAGES/Space Science Tech GIF by European Space Agency - ESA.gif)
+
 
 
