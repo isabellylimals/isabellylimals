@@ -1,10 +1,13 @@
-
 ### Hey, my name is Isabelly! 👋
+
+---
 
 ### About me 👩
 I'm passionate about technology and love exploring new tools and programming languages.  
 I enjoy reading books, listening to music, and stargazing—I have a deep fascination with astronomy and the mysteries of the universe. 🌌  
 I'm always eager to learn and collaborate on exciting projects that challenge me to grow.
+
+---
 
 ## Contact
 
@@ -12,11 +15,14 @@ I'm always eager to learn and collaborate on exciting projects that challenge me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mslima5643@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelly-lima-012623290/)
 
-## GitHub Statistics
+---
 
+## GitHub Statistics
 
 ![Isabelly GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellylimals&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellylimals&layout=compact&langs_count=5&theme=radical)
+
+---
 
 ## My Tech Stack
 
@@ -29,7 +35,7 @@ I'm always eager to learn and collaborate on exciting projects that challenge me
   <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
 </div>
 
-![Space Science Tech GIF](cosmos.gif)
+![Space Science Tech GIF](space.gif)
 
 
 
