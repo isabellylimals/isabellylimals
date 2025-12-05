@@ -15,13 +15,6 @@ I'm always eager to learn and collaborate on exciting projects that challenge me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mslima5643@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelly-lima-012623290/)
 
----
-
-## GitHub Statistics
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isabellylimals&show_icons=true&theme=radical&cache_seconds=1)
-
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isabellylimals&layout=compact&langs_count=5&theme=radical)
 
 ---
 
