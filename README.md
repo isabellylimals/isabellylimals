@@ -3,9 +3,12 @@
 ---
 
 ### About me 👩
-I'm passionate about technology and love exploring new tools and programming languages.  
-I enjoy reading books, listening to music, and stargazing. I have a deep fascination with astronomy and the mysteries of the universe. 🌌  
-I'm always eager to learn and collaborate on exciting projects that challenge me to grow.
+I'm passionate about technology and constantly exploring new tools, frameworks, and programming languages.
+I love diving into challenges that push me to grow both technically and creatively.
+Outside the tech world, I enjoy reading, listening to music, and spending time stargazing.
+I have a deep fascination with astronomy and the mysteries of the universe (nothing inspires me more than looking up at the night sky). 🌌
+
+I'm always eager to learn, share knowledge, and collaborate on meaningful projects that make a difference.
 
 ---
 
