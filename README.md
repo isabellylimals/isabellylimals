@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=500&color=7B68EE&center=true&vCenter=true&width=500&lines=Welcome+to+my+cosmos;Data+Analysis+in+progress;Python+%7C+SQL+%7C+Power+BI;Always+learning+new+things" />
 </p>
 
----
+
 
 ## About me
 
@@ -50,7 +50,6 @@ I'm always open to learning, improving, and connecting with people in the tech f
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=isabellylimals&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4ecd&icon_color=ff4ecd&text_color=c9a0ff"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellylimals&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4ecd&text_color=c9a0ff"/>
 </p>
----
 
 <p align="center">
   <img src="cosmos.gif" width="100%" />
