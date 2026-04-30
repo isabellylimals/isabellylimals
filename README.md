@@ -36,11 +36,13 @@ I'm always open to learning, improving, and connecting with people in the tech f
 
 ## Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,dart,django,spring,mysql,postgres,linux,vscode,pycharm" />
-
-</p>
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-5A189A?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-9D4EDD?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-FF4ECD?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/Django-3C096C?style=for-the-badge&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-7B2CBF?style=for-the-badge&logo=spring&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-5A189A?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-240046?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Tools** | ![Linux](https://img.shields.io/badge/Linux-7B2CBF?style=for-the-badge&logo=linux&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-5A189A?style=for-the-badge&logo=pycharm&logoColor=white) ![VS_Code](https://img.shields.io/badge/VS_Code-9D4EDD?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
