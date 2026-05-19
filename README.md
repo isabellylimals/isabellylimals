@@ -48,9 +48,9 @@ I'm always open to learning, improving, and connecting with people in the tech f
 
 ## Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isabellylimals&theme=flat" />
+  <img height="190em" src="https://github-readme-stats-kappa-orpin-37.vercel.app/api?username=isabellylimals&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4ecd&icon_color=ff4ecd&text_color=c9a0ff"/>
+  <img height="190em" src="https://github-readme-stats-kappa-orpin-37.vercel.app/api/top-langs/?username=isabellylimals&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4ecd&text_color=c9a0ff"/>
 </p>
-
 <p align="center">
   <img src="cosmos.gif" width="100%" />
 </p>
